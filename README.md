@@ -24,7 +24,7 @@ I'm Software Engineer
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/NCC-1701-v3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/eduardo-jose-bravo-bravo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Euler_b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/eduardo-jose-bravo-bravo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
@@ -32,4 +32,4 @@ I'm Software Engineer
 
 <a href="http://www.github.com/NCC-1701-v3"><img src="https://github-readme-stats.vercel.app/api?username=NCC-1701-v3&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="NCC-1701-v3's GitHub stats" /></a>
 
-<a href="http://www.github.com/Euler-B"><img src="https://activity-graph.herokuapp.com/graph?username=NCC-1701-v3&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Euler-B"><img src="https://activity-graph.herokuapp.com/graph?username=Euler-B&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
