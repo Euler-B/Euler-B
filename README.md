@@ -5,7 +5,7 @@ I'm Software Engineer
 ---------------------
 
 * 🌍  I'm based in Merida, Venezuela
-* 🧠  I'm learning Go, Rust, PostgreSQL
+* 🧠  I'm learning Go, React, and PostgreSQL
 
 ### Skills
 
