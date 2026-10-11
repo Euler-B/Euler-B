@@ -6,7 +6,6 @@
 *and taking my first steps into the open source galaxy.*
 
 [![Website](https://img.shields.io/badge/Web-edik.dev-1e2327?style=for-the-badge&logo=astro&logoColor=white)](https://www.edik.dev/)
-[![Followers](https://img.shields.io/github/followers/Euler-B?label=Followers&style=for-the-badge&logo=github)](https://github.com/Euler-B?tab=followers)
 
 </div>
 
@@ -17,7 +16,7 @@
 - 🔭 Software developer focused on **backend and systems** [adjust to your focus].
 - ⚡ Contributing to the **Bitcoin / Lightning Network** ecosystem and other open source projects.
 - 🌎 Part of the **Golang Venezuela** and **Gophers LATAM** communities.
-- 🌱 Learning in public: Rust, distributed systems, 
+- 🌱 Learning in public: Rust, Distributed Systems.
 - 💬 Ask me about: Go, Ruby, TypeScript, PostgreSQL.
 
 ## 🛠️ Tech Stack
