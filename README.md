@@ -33,7 +33,7 @@ A real-time earthquake monitoring platform, built as a set of services:
 
 | Service | Description | Stack |
 |---|---|---|
-| [Telurify-API](https://github.com/Euler-B/Telurify-API) | Main API for the earthquake app | Ruby |
+| [Telurify-API](https://github.com/Euler-B/Telurify-API-NestJS) | Main API for the earthquake app | Typescript |
 | [Telurify-Ingestion](https://github.com/Euler-B/Telurify-Ingestion) | Periodic job that ingests the USGS GeoJSON feed | Go |
 | [TeluriFy-Web](https://github.com/Euler-B/TeluriFy-Web) | Web interface | TypeScript |
 | [Telurify-Notifications](https://github.com/Euler-B/Telurify-Notifications) | Push notification service for the web app | TypeScript |
